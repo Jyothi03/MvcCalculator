@@ -11,4 +11,6 @@ public class CalculatorModel {
 	public int getCalculationValue(){
 		return calculationValue;
 	}
+	
+		
 }
